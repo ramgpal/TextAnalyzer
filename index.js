@@ -18,7 +18,7 @@ inpText.addEventListener("input", () => {
     console.log("changed");
     var inputText = inpText.value;
     charCount.innerText = inputText.length;
-    wordCount.innerText = inputText.trim().split(/\s+/).length-1;
+    wordCount.innerText = inputText.trim().split(/\s+/).length;
     sentenceCount.innerText = inputText.split(/[.?!]\s*/).length-1;
 });
 
