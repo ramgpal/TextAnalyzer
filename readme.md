@@ -1,6 +1,6 @@
-# Text Analyzer Project
+# Text Analyzer
 
-The Text Analyzer project is a simple tool that performs basic analysis on text input, including character count, word count, and sentence count.
+<B>'Text Analyzer'<B> is a simple tool that performs basic analysis on text input, including character count, word count, sentence count, conversion between UpperCase to LowerCase & vicevarsa.
 
 ## Features
 
@@ -13,7 +13,7 @@ The Text Analyzer project is a simple tool that performs basic analysis on text 
 ## Technologies Used
 
 - HTML
-- CSS
+- Bootstrap
 - JavaScript
 
 ## Usage
