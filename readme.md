@@ -28,5 +28,5 @@
 
 ## Screenshots
 
-![Screenshot 1](./Image.png)
+![Screenshot 1](./TextAnalyzer.png)
 
